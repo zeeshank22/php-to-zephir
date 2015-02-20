@@ -343,12 +343,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/DependencyInjection.git",
-                "reference": "a437de3086b576181e0e44473b850e8df0c65285"
+                "reference": "84fa0a1e46f1bd4da38dc624b1d7c26f90e221dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DependencyInjection/zipball/a437de3086b576181e0e44473b850e8df0c65285",
-                "reference": "a437de3086b576181e0e44473b850e8df0c65285",
+                "url": "https://api.github.com/repos/symfony/DependencyInjection/zipball/84fa0a1e46f1bd4da38dc624b1d7c26f90e221dd",
+                "reference": "84fa0a1e46f1bd4da38dc624b1d7c26f90e221dd",
                 "shasum": ""
             },
             "require": {
@@ -400,12 +400,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/EventDispatcher.git",
-                "reference": "523475d4f82749d268949ffdecb28ae2115f4dd6"
+                "reference": "9fc60b31d309612fd757fec278515d2b036c051b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/523475d4f82749d268949ffdecb28ae2115f4dd6",
-                "reference": "523475d4f82749d268949ffdecb28ae2115f4dd6",
+                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/9fc60b31d309612fd757fec278515d2b036c051b",
+                "reference": "9fc60b31d309612fd757fec278515d2b036c051b",
                 "shasum": ""
             },
             "require": {
