@@ -20,8 +20,8 @@
         "phpdocumentor/reflection-docblock": "dev-master",
         "phalcon/zephir": "dev-master",
         "symfony/console": "2.5.*",
-        "symfony/event-dispatcher": "~3.0@dev",
-        "symfony/dependency-injection": "~2.6@dev",
+        "symfony/event-dispatcher": "~2.6@dev",
+        "symfony/dependency-injection": "~3.0@dev",
         "doctrine/annotations": "~1.3@dev"
     },
     "require-dev": {
